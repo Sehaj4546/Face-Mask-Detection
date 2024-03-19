@@ -1,0 +1,2 @@
+# Face Mask Detection using CNN
+## This project focuses on utilizing Convolutional Neural Networks (CNNs) for the task of face mask detection. In the wake of the COVID-19 pandemic, adherence to safety protocols such as wearing face masks has become crucial. To automate the process of monitoring mask usage, we developed a deep learning model capable of detecting whether a person is wearing a face mask or not.
